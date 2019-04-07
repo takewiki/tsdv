@@ -1,0 +1,66 @@
+Name: 插入散点图-默认数据列
+Description: 根据数据生成散点图，可选择主题及数据源.
+Binding: kPoint.recharts3.obj
+Interactive: true
+
+Name: 插入散点图-维度数据
+Description: 根据数据生成散点图，可选择主题及数据源.
+Binding: kPoint.recharts3.dim
+Interactive: true
+
+Name: 插入线图-默认数据列
+Description: 根据数据生成线图，可选择主题及数据源.
+Binding: kLine.recharts3.obj
+Interactive: true
+
+Name: 插入线图-维度数据
+Description: 根据数据生成线图，可选择主题及数据源.
+Binding: kLine.recharts3.dim
+Interactive: true
+
+Name: 插入线图-正态分布
+Description: 根据数据生成线图，可选择主题及数据源.
+Binding: kLine.recharts3.rnorm
+Interactive: true
+
+Name: 插入柱状图-默认数据列
+Description: 根据数据生成线图，可选择主题及数据源.
+Binding: kBar.recharts3.obj
+Interactive: true
+
+Name: 插入条形图-默认数据列
+Description: 根据数据生成线图，可选择主题及数据源.
+Binding: kBar.recharts3.obj.horiz
+Interactive: true
+
+Name: 插入柱状图-维度数据
+Description: 根据数据生成柱状图，可选择主题及数据源.
+Binding: kBar.recharts3.dim
+Interactive: true
+
+Name: 插入柱状图-维度数据堆叠
+Description: 根据数据生成柱状图，可选择主题及数据源.
+Binding: kBar.recharts3.dim.stack
+Interactive: true
+
+Name: 插入柱状图-正态分析
+Description: 根据数据生成柱状图，可选择主题及数据源.
+Binding: kBar.recharts3.rnorm
+Interactive: true
+
+Name: 插入饼图-默认数据列
+Description: 根据数据生成饼图，可选择主题及数据源.
+Binding: kPie.recharts3.obj
+Interactive: true
+
+Name: 插入饼图-维度数据
+Description: 根据数据生成饼图，可选择主题及数据源.
+Binding: kPie.recharts3.dim
+Interactive: true
+
+Name: 21-甘特图-演示数据
+Description: 21-甘特图-演示数据
+Binding: gantt_demo_fixed
+Interactive: true
+
+
