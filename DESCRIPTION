@@ -29,3 +29,5 @@ Collate:
     'kPie.recharts3.obj.R'
     'kPoint.recharts3.dim.R'
     'kPoint.recharts3.obj.R'
+Suggests: 
+    testthat
